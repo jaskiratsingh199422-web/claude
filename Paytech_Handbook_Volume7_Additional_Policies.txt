@@ -1,0 +1,170 @@
+PAYTECH INC.
+Employee Handbook — Volume 7
+Additional Company Policies & Employee Resources
+A Canadian Financial Technology Company
+Effective Date: [Effective Date]
+Version: 1.0 (Draft)
+Applies To: All employees of Paytech Inc.
+Jurisdiction: Ontario / Canada
+Document Owner: People & Culture (HR), in partnership with Compliance & Legal, IT Security, and Benefits Administration
+Review Cycle: Annual, or upon material regulatory or legislative change
+
+Important Notice
+This volume is a companion to Volume 6 — Company Policies, and covers the everyday employee questions that Volume 6 does not: pay, benefits, onboarding, expenses, learning and development, general workplace health and safety, accommodation, diversity and inclusion, IT acceptable use, statutory holidays, and how to raise a general workplace concern. It is written to be read alongside Volume 6, and where the two ever appear to conflict, Volume 6 and applicable law govern for the topics it covers.
+
+Several figures in this volume (benefit providers, contribution rates, salary bands, exact holiday dates) are shown as placeholders in square brackets. These must be confirmed and completed by Paytech's People & Culture and Benefits teams before this volume is treated as authoritative — the surrounding text describes the general structure and statutory minimums, not company-confirmed numbers.
+
+Table of Contents
+1. Compensation & Pay
+2. Benefits & Wellness
+3. Onboarding & Probation
+4. Expenses & Business Travel
+5. Learning & Development
+6. Workplace Health & Safety (General)
+7. Accommodation & Accessibility
+8. Diversity, Equity & Inclusion
+9. Information Technology & Acceptable Use
+10. Statutory Holidays & Office Closures
+11. General Workplace Concerns (Non-Harassment Grievances)
+12. Frequently Asked Questions (Quick Reference)
+Appendix A — Policy Ownership & Contacts
+
+1. Compensation & Pay
+1.1 Pay Frequency & Method
+Employees are paid by direct deposit on a [bi-weekly/semi-monthly — confirm] schedule. Pay stubs are available through [payroll system/portal name]. Any pay discrepancy should be reported to Payroll as soon as it is noticed, so it can be corrected in the next pay cycle wherever possible.
+1.2 Overtime
+Eligibility for overtime pay depends on an employee's role classification under the Ontario Employment Standards Act, 2000 (or the equivalent legislation in their province). Employees in eligible roles are paid overtime in accordance with statutory requirements; employees in exempt roles (typically managerial or supervisory positions, or those covered by specific ESA exemptions) are not. An employee's offer letter or role documentation confirms which classification applies to them.
+1.3 Salary Reviews & Adjustments
+Compensation is reviewed in connection with the Annual Review described in Section 6.2 of Volume 6, and may also be adjusted on promotion, role change, or as part of a broader compensation review cycle. Specific salary bands and increase guidelines are maintained by People & Culture and are not published company-wide, consistent with standard compensation confidentiality practice.
+1.4 Incentive & Bonus Plans
+Where a role is eligible for a bonus, commission, or other incentive plan, the structure, targets, and payout timing are set out in the employee's offer letter or a separate plan document, and are administered by People & Culture in partnership with Finance.
+1.5 Deductions
+Statutory deductions (income tax, CPP/QPP, EI) are withheld as required by law. Other deductions (e.g., benefits premiums, group RRSP contributions) are only made with the employee's authorization, as documented at enrollment.
+
+2. Benefits & Wellness
+2.1 Eligibility & Enrollment
+Full-time employees become eligible for Paytech's group benefits plan on [date — e.g., first day of employment / after a waiting period, confirm]. Enrollment instructions are provided during onboarding, and changes to coverage (e.g., following a life event such as marriage or the birth of a child) can generally be made within a defined window after the event — contact [Benefits contact/portal] for specifics.
+2.2 Health, Dental & Vision
+Paytech provides group health, dental, and vision coverage through [insurance provider — confirm], covering [summary of coverage — confirm]. Full plan details, including what is and is not covered, are set out in the plan booklet provided at enrollment.
+2.3 Retirement Savings
+Paytech offers a Group RRSP (or equivalent) through [provider — confirm], with the Company matching employee contributions up to [match percentage — confirm]. Enrollment and contribution changes are managed through [portal/provider].
+2.4 Life & Disability Insurance
+Basic life insurance and short-term/long-term disability coverage are provided as described in the benefits plan booklet. Employees on an approved leave due to illness or injury should coordinate with HR and, where applicable, the disability insurer regarding claims and return-to-work planning.
+2.5 Employee Assistance Program (EAP)
+Paytech provides confidential access to an Employee Assistance Program through [EAP provider — confirm], offering short-term counselling and referral support for personal, family, and work-related concerns, at no cost to the employee. EAP usage is confidential and is not reported to managers or HR in any way that identifies the employee.
+2.6 Wellness Perks
+Additional wellness benefits (e.g., a wellness spending account, gym subsidy, mental health app subscription) are described in [benefits summary / offer letter], where applicable to the employee's role and tenure.
+
+3. Onboarding & Probation
+3.1 Before Day One
+New hires receive a welcome package covering start date, first-day logistics, IT equipment shipping/setup, and required paperwork (e.g., banking information for payroll, emergency contact details).
+3.2 First Weeks
+Onboarding typically includes an orientation session covering company policies, mandatory compliance training (see Section 5.2), introductions to the employee's team, and role-specific training led by the manager. Many teams also pair new hires with a peer buddy for their first weeks.
+3.3 Probationary Period
+New employees typically serve a probationary period of [length — e.g., 3 months, confirm] from their start date, during which performance and fit are actively assessed, consistent with the applicable employment standards legislation. Completion of probation does not change an employee's at-will or contractual status beyond what is set out in their employment agreement, and the general Termination provisions in Volume 6, Section 13, continue to apply throughout.
+3.4 Equipment & Access
+IT provisions equipment and system access in line with the employee's role, following the security obligations described in Volume 6, Section 4.3, for anyone working remotely.
+
+4. Expenses & Business Travel
+4.1 Reimbursable Expenses
+Reasonable, pre-approved business expenses (e.g., approved travel, client meals within policy limits, approved home-office equipment) are reimbursed in accordance with the Expense Policy referenced in Volume 6, Section 4.5. Original receipts (or digital copies) are required for all claims above [threshold — confirm].
+4.2 Submitting a Claim
+Expenses are submitted through [expense system/portal], generally within [timeframe — e.g., 30 days, confirm] of being incurred, and require manager approval before reimbursement is processed by Payroll or Finance.
+4.3 Business Travel
+Business travel is booked through [travel booking process/provider], and should be arranged as far in advance as reasonably possible to manage cost. Travel outside the employee's home province or country may require additional approval — check with your manager and, where relevant, Compliance (for regulatory travel restrictions tied to certain roles).
+4.4 Non-Reimbursable Items
+Personal expenses, and any expense not genuinely required for business purposes, are not reimbursed. Where there is doubt about whether something qualifies, employees should check with their manager or Finance before incurring the cost.
+
+5. Learning & Development
+5.1 Mandatory Compliance Training
+All employees are required to complete periodic training on topics tied directly to Volume 6, including Code of Conduct (Section 3), anti-money-laundering/anti-terrorist-financing obligations, privacy (Section 11), and harassment/violence prevention (Sections 8–9). Training is assigned and tracked through [LMS/training platform], and completion is mandatory within the assigned deadline — non-completion may itself be treated as a performance or conduct matter given its regulatory importance.
+5.2 Professional Development
+Employees are encouraged to pursue growth through coaching, internal training, conference attendance, or further education relevant to their role, consistent with the development focus described in Volume 6, Section 6.3. Where a tuition or certification reimbursement benefit applies, its terms (eligible programs, reimbursement cap, any service commitment) are set out in [Learning & Development policy / benefits summary].
+5.3 Internal Mobility
+Consistent with Volume 6, Section 12.4, employees are encouraged to apply for internal openings that support their career growth, generally after completing a minimum tenure in their current role (typically around 12 months, unless their manager and HR agree otherwise).
+
+6. Workplace Health & Safety (General)
+6.1 General Commitment
+Beyond the workplace violence program described in Volume 6, Section 9, Paytech maintains a broader occupational health and safety program consistent with the Ontario Occupational Health and Safety Act and equivalent legislation elsewhere, covering general workplace safety, ergonomics, and incident response.
+6.2 Reporting an Incident or Hazard
+Any workplace injury, near-miss, or safety hazard — including ergonomic concerns from remote or in-office workstations — should be reported promptly to a manager and to [Health & Safety contact/HR]. Reports are logged and, where required by law, escalated to the relevant regulator.
+6.3 Return-to-Work
+Employees returning from a leave related to illness or injury are supported through a return-to-work process coordinated by HR, the employee's manager, and, where applicable, the disability insurer, focused on a safe and sustainable return, including modified duties where appropriate and medically supported.
+6.4 Joint Health & Safety Committee
+Where required by legislation, Paytech maintains a Joint Health & Safety Committee with employee and management representation. Details on current representatives and how to raise a concern with the Committee are available from [HR/Health & Safety contact].
+
+7. Accommodation & Accessibility
+7.1 Duty to Accommodate
+Beyond the recruitment-stage accommodation described in Volume 6, Section 12.2, Paytech's duty to accommodate continues throughout employment for any protected ground under applicable human rights legislation — including disability, religious observance, and family status — up to the point of undue hardship.
+7.2 Requesting an Accommodation
+An employee who needs an accommodation (for example, a modified schedule, ergonomic equipment, or leave arrangement tied to a disability) should raise the request with their manager or HR. Supporting documentation may be requested only to the extent the law permits, and is handled confidentially, consistent with the Privacy principles in Volume 6, Section 11.
+7.3 Accessibility Standards
+Paytech is committed to meeting its obligations under the Accessible Canada Act and, in Ontario, the Accessibility for Ontarians with Disabilities Act (AODA), including accessible customer service, information, and communication practices, and workplace emergency response plans for employees who need one.
+
+8. Diversity, Equity & Inclusion
+8.1 Commitment
+Paytech is committed to building a workforce and workplace culture that reflects the diversity of the communities it serves, and to ensuring equitable access to opportunity regardless of any characteristic protected under applicable human rights law.
+8.2 How This Shows Up
+This commitment is reflected in the fair hiring practices described in Volume 6, Section 12.1, in how promotion and development opportunities are made available, and in Paytech's expectation — described in Volume 6, Section 3.2 — that every employee treats colleagues, clients, and partners with respect and fairness.
+8.3 Employee Resource Groups
+Where Paytech supports employee resource groups (ERGs) or similar voluntary employee communities, information on current groups and how to join is available from [HR/DEI contact].
+
+9. Information Technology & Acceptable Use
+9.1 Acceptable Use
+Company systems, email, and devices are provided for legitimate business purposes. Limited, reasonable personal use is generally permitted provided it does not interfere with work, violate any policy in Volume 6 (particularly the Code of Conduct and Privacy sections), or create security or legal risk.
+9.2 Account Security
+Employees must use strong, unique passwords, enable multi-factor authentication where offered, and never share login credentials — consistent with the confidentiality expectations in Volume 6, Sections 3 and 11. Suspected account compromise should be reported immediately to IT Security.
+9.3 Software & Devices
+Only company-approved software may be installed on company devices. Personal devices used for work (where permitted) must meet the security requirements described in Volume 6, Section 4.3, before being used to access company systems.
+9.4 Monitoring
+Paytech may monitor use of its systems and devices to the extent necessary for security, compliance, and business purposes, consistent with applicable privacy law and the principles in Volume 6, Section 11. Employees should have no expectation of privacy in company systems used for company business.
+
+10. Statutory Holidays & Office Closures
+10.1 Recognized Holidays
+Paytech recognizes the statutory public holidays required under the employment standards legislation of the province an employee works in. For Ontario, this generally includes: New Year's Day, Family Day, Good Friday, Victoria Day, Canada Day, Labour Day, Thanksgiving, and Christmas Day, among others required by the Employment Standards Act, 2000. [Confirm the current-year holiday calendar, including any additional Paytech-designated holidays, with HR.]
+10.2 Holiday Pay
+Eligible employees receive public holiday pay calculated in accordance with statutory requirements. Employees required to work on a recognized holiday are compensated consistent with the applicable premium pay or substitute-day rules under the relevant employment standards legislation.
+10.3 Office Closures
+Any additional company-wide closures (e.g., a winter shutdown period) are communicated by HR in advance and are separate from an employee's statutory holiday and vacation entitlements unless stated otherwise.
+
+11. General Workplace Concerns (Non-Harassment Grievances)
+11.1 When to Use This Channel
+Not every workplace concern is a harassment, violence, or code of conduct matter — an employee may simply disagree with a decision, have a concern about workload, team dynamics, or a process that isn't working well. This section describes how to raise that kind of concern.
+11.2 How to Raise a Concern
+Employees are encouraged to first raise the concern directly with their manager where that feels appropriate and safe to do. If that isn't appropriate, or the concern involves the manager themselves, the employee can raise it with HR directly, using the same multiple-route principle described in Volume 6, Section 3.4.
+11.3 What Happens Next
+HR will listen to the concern, ask clarifying questions, and work with the employee to identify a reasonable path forward — which may include a conversation facilitated by HR, a referral to another process (such as the Harassment or Discipline procedures) if the facts warrant it, or simply guidance on next steps. As with all HR matters, concerns are handled with discretion and shared only with those who need to know.
+11.4 No Retaliation
+Raising a good-faith workplace concern through this channel is protected in the same way as any other good-faith report described in Volume 6 — it will never be held against the employee raising it.
+
+12. Frequently Asked Questions (Quick Reference)
+How do I request vacation or leave? — Submit the request through the HR system with as much advance notice as possible; see Volume 6, Sections 2.3 and 5.2.
+How do I report that I'll be absent? — Notify your manager as early as possible through the HR system or a direct message; see Volume 6, Section 1.4.
+Who do I contact about my pay? — Contact Payroll through [payroll contact/portal] for any pay discrepancy or question.
+How do I enroll in or change my benefits? — Contact [Benefits contact/portal]; changes outside open enrollment generally require a qualifying life event.
+How do I submit an expense claim? — Use [expense system/portal] with receipts attached; see Section 4 of this volume.
+Who do I talk to if I have a concern that isn't harassment-related? — Your manager first, or HR directly; see Section 11 of this volume.
+How do I report a harassment or safety concern? — A manager, HR, or the designated harassment officer; in an emergency, call 911 first, then Security/HR; see Volume 6, Sections 8–9.
+How do I request an accommodation? — Speak with your manager or HR; see Section 7 of this volume.
+What do I do if I lose a company device or badge, or suspect a security breach? — Report it immediately to IT Security or the Privacy Office; see Volume 6, Sections 4.3 and 11.4.
+How do I get a letter confirming my employment? — Request it through HR via [HR contact/portal].
+Who approves my time off or expenses? — Generally your direct manager, following the processes described above.
+What training am I required to complete, and by when? — Check [LMS/training platform] for your assigned compliance training and deadlines; see Section 5.1 of this volume.
+
+Appendix A — Policy Ownership & Contacts
+Policy Area | Primary Owner
+Compensation & Pay | People & Culture (HR), in partnership with Payroll/Finance
+Benefits & Wellness | People & Culture (HR), Benefits Administration
+Onboarding & Probation | People & Culture (HR)
+Expenses & Business Travel | Finance, with manager approval
+Learning & Development | People & Culture (HR)
+Workplace Health & Safety | Health & Safety, together with HR
+Accommodation & Accessibility | People & Culture (HR), in partnership with Compliance & Legal
+Diversity, Equity & Inclusion | People & Culture (HR)
+IT & Acceptable Use | IT Security & Privacy Office
+Statutory Holidays & Office Closures | People & Culture (HR)
+General Workplace Concerns | People & Culture (HR)
+Contacts: [HR email] | [Payroll email] | [Benefits email] | [IT Security email] | [Compliance email] | Emergencies: 911
+
+End of Volume 7 — Additional Company Policies & Employee Resources
+Paytech Inc. | Draft — pending confirmation of bracketed details by People & Culture and Benefits Administration | Version 1.0
