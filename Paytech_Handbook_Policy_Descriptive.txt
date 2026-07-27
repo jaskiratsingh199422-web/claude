@@ -1,0 +1,269 @@
+PAYTECH INC.
+Employee Handbook — Volume 6
+Company Policies
+A Canadian Financial Technology Company
+Effective Date: July 2, 2026
+Version: 1.0
+Applies To: All employees of Paytech Inc. (approximately 500 employees)
+Jurisdiction: Ontario / Canada
+Document Owner: People & Culture (HR), in partnership with Compliance & Legal
+Review Cycle: Annual, or upon material regulatory or legislative change
+Important Notice
+This volume forms part of the Paytech Employee Handbook and provides a detailed description of the core policies that govern employment at Paytech Inc. (referred to throughout as "Paytech" or "the Company"). Because Paytech is a Canadian financial technology organization employing approximately 500 people, our policies are shaped not only by ordinary workplace practice but by the specific legal and regulatory framework that applies to a payments business.
+In practice, this means Paytech's policies are built on several overlapping layers of law: provincial employment standards legislation (principally the Ontario Employment Standards Act, 2000, along with the equivalent statutes that apply to employees working in other provinces), occupational health and safety legislation, human rights codes, federal private-sector privacy legislation (PIPEDA), anti-money-laundering and anti-terrorist-financing law (the PCMLTFA, overseen by FINTRAC), and the broader supervisory expectations that regulators place on financial and payments companies.
+These policies are intended to describe how Paytech generally operates, and they are deliberately written to be read together rather than as isolated rules. They are not exhaustive — they cannot anticipate every situation — and they do not create or form part of a contract of employment. Paytech may amend, replace, or supplement them at any time, and the most recently published version always takes precedence over any earlier version. If any policy described here were ever to conflict with a requirement of applicable law, the law governs. More detailed, step-by-step operating instructions for each of these subject areas will be issued separately as Standard Operating Procedures (SOPs), which employees should consult alongside this handbook.
+Table of Contents
+1. Attendance Policy
+2. Leave Policy
+3. Code of Conduct
+4. Remote Work
+5. Vacation
+6. Performance
+7. Discipline
+8. Harassment
+9. Violence
+10. Conflict of Interest
+11. Privacy
+12. Recruitment
+13. Termination
+Appendix A — Policy Ownership & Contacts
+Appendix B — Definitions
+Appendix C — Acknowledgement of Receipt
+1. Attendance Policy
+1.1 Purpose
+Reliable, predictable attendance is what allows Paytech's payment operations, client services, and regulated functions to run smoothly day after day. Many of the services Paytech provides are inherently time-sensitive — settlement cycles have to close on schedule, transactions have to be monitored continuously, client support windows have to be staffed, and regulatory reports have to go out on time. Because of this, an individual employee's consistent presence has a real and direct effect on both our customers' experience and Paytech's standing with its regulators.
+1.2 Standard Hours
+Paytech's standard business hours run from 9:00 AM to 5:00 PM Eastern Time, Monday through Friday, and each employee's total standard work week is set out in their individual employment agreement. Certain teams — Operations, Fraud, Customer Support, and Treasury — operate outside this standard pattern on shift-based or on-call schedules, which are communicated separately to the employees on those teams.
+1.3 Flexibility
+Where an employee's role allows for it, they may agree flexible start and end times directly with their manager. This flexibility is intended to accommodate individual circumstances while still protecting the collaboration the business depends on: employees who adopt a flexible schedule are expected to remain available during the core collaboration window of 11:00 AM to 3:00 PM Eastern Time, and to continue meeting whatever coverage commitments apply to their role.
+1.4 Reporting an Absence
+If an employee is going to be absent, they are expected to notify their manager as early as possible — ideally before their scheduled shift begins — using the approved channel, which is either the HR system or a direct message. When giving notice, the employee should include, at a high level, the reason for the absence and how long they expect to be away, so that the manager can plan for coverage.
+1.5 Lateness & Absenteeism
+Paytech recognizes that attendance issues vary widely in seriousness, and managers are expected to apply judgment rather than a rigid formula. Importantly, any absence that is legally protected — such as a statutory leave described in Section 2 — is never counted against an employee, regardless of how frequently it occurs. The table below describes, in general terms, how different attendance situations are typically approached.
+1.6 Regulated-Role Expectations
+Employees whose roles touch trading, settlement, transaction monitoring, or client-facing service-level agreements are held to stricter attendance and coverage standards than the general workforce, given the regulatory and client impact of any gap in coverage. These heightened expectations are documented in writing and provided to the employee either at onboarding or at the point they move into such a role.
+2. Leave Policy
+2.1 Purpose
+Paytech provides every statutory leave required under the employment standards legislation that applies to it, and beyond that legal floor, aims to genuinely support employees as they balance their work with health needs, family responsibilities, and civic obligations.
+2.2 Statutory Leaves
+The specific leave entitlements an employee has depend on the province they work in, their length of service, and their individual circumstances — so the table below uses Ontario as a representative baseline. Employees working outside Ontario are entitled to whatever their own province provides, which may differ from what is shown here.
+* These leaves may be topped up or paid under Paytech's enhanced benefits program — see your offer letter or benefits summary for details.
+** Government Employment Insurance benefits may apply, and Paytech may offer a top-up to eligible employees.
+2.3 Requesting Leave
+Leave requests are submitted through the HR system, and employees should give as much advance notice as their circumstances reasonably allow. Paytech recognizes that not every leave can be planned ahead of time — where a leave is genuinely emergency or unforeseeable in nature, employees may request it retroactively, after the fact.
+2.4 Documentation
+Some leave types require supporting documentation, such as a medical note, but only where the law permits an employer to ask for it. Paytech only ever requests documentation to the extent it is legally entitled to, and any documentation provided is handled in strict confidence.
+2.5 Protection from Reprisal
+Taking a statutory, job-protected leave will never be held against an employee. It cannot form the basis for discipline, cannot lower a performance rating, and cannot factor into a termination decision.
+3. Code of Conduct
+3.1 Our Standard
+Every Paytech employee is expected to act with integrity, honesty, and professionalism in their day-to-day work. Because Paytech operates in the payments and financial technology space, the standard we hold ourselves to carries extra weight: our clients, partners, and regulators are trusting us with their money, their sensitive data, and infrastructure that matters to the broader financial system.
+3.2 Core Expectations
+In practical terms, this standard translates into a set of core expectations that apply to everyone at Paytech:
+Treating colleagues, clients, and partners with respect and fairness in every interaction.
+Safeguarding company and client assets, funds, and information as if they were one's own responsibility to protect.
+Complying fully with the financial, anti-money-laundering/anti-terrorist-financing, and privacy regulations that apply to our business.
+Following internal controls, staying within approval limits, and respecting segregation-of-duties rules designed to prevent error and abuse.
+Representing Paytech truthfully in every internal and external communication.
+Avoiding any action that could put Paytech's reputation or regulatory licences at risk.
+3.3 Prohibited Conduct (Non-Exhaustive)
+Certain categories of conduct are considered so serious that they are called out explicitly, although this list is illustrative rather than complete:
+Fraud, theft, embezzlement, or any misuse of client or company funds.
+Insider trading, market manipulation, or misuse of material non-public information.
+Bribery, kickbacks, or improper gifts and facilitation payments.
+Falsifying records, reports, timesheets, or regulatory filings.
+Circumventing controls, security measures, or approval workflows.
+Misusing client, employee, or company confidential data.
+3.4 Reporting & Whistleblower Protection
+Employees are expected to promptly report any suspected misconduct they become aware of. There are multiple ways to do this — through a manager, HR, Compliance, or the confidential whistleblower channel — so that no one feels they have only one, potentially uncomfortable, reporting route. Reports made in good faith are protected, and retaliating against someone for making one is treated as a serious violation in its own right.
+3.5 Outside Activities & Public Conduct
+Employees need to be mindful that their outside activities, social media presence, and public statements do not misrepresent Paytech, do not disclose confidential information, and do not create regulatory or reputational risk for the Company.
+4. Remote Work
+4.1 Philosophy
+Paytech supports remote and hybrid working arrangements wherever the nature of the role allows it. Exactly which arrangement applies, how many in-office days are required, and what equipment will be provided are all determined at the team level and communicated to each employee by their manager.
+4.2 Eligibility & Arrangements
+Roles at Paytech generally fall into one of three categories, described below. Which category applies depends primarily on whether the role has a genuine physical or in-person requirement.
+4.3 Security Obligations (Critical)
+Because remote employees may be handling sensitive financial and personal data outside a controlled office environment, security obligations for remote work are treated as critical rather than optional. Employees working remotely must:
+Use only devices that are company-approved and centrally managed.
+Connect to company systems through the VPN and other encrypted connections.
+Avoid working on unsecured or public Wi-Fi networks.
+Lock their screens whenever they step away, and take reasonable steps to prevent shoulder-surfing or household members viewing sensitive information.
+Never store client or regulated data on personal devices or personal cloud accounts.
+Report any lost or stolen device, or any suspected breach, immediately.
+4.4 Work Environment & Availability
+Remote employees are expected to maintain a workspace that is both safe and productive, to remain reachable during their agreed working hours, and to attend in-office sessions whenever these are required for training, audits, team events, or other regulatory needs. Working remotely does not reduce or alter any confidentiality, privacy, or performance obligation an employee has.
+4.5 Expenses & Equipment
+Paytech provides the core equipment employees need to work remotely and may reimburse eligible home-office expenses in accordance with the Expense Policy. All such equipment remains Paytech's property throughout, and must be returned on request or at the end of employment.
+5. Vacation
+5.1 Entitlement
+Employees accrue paid vacation time and vacation pay in line with statutory minimums, with each individual's specific entitlement set out in their employment agreement — commonly at or above what the law requires. The table below illustrates a representative structure based on Ontario's statutory minimums; entitlements in other provinces follow local law, and Paytech may choose to grant additional vacation as an enhanced benefit.
+5.2 Requesting & Approval
+Vacation is requested in advance through the HR system and requires manager approval. Approval takes into account business needs, team coverage, and blackout periods that may apply around financial reporting deadlines, product launches, and other market-critical dates.
+5.3 Scheduling Fairness
+Managers aim to approve vacation requests fairly. When multiple employees request overlapping time off and not all requests can be accommodated, managers weigh seniority, how early the request was made, and the operational coverage the team still needs during that period.
+5.4 Carryover & Payout
+Rules around carrying vacation into a new entitlement year, and paying it out on termination, follow statutory requirements together with Paytech's internal guidelines. Employees are encouraged to actually use their vacation within the entitlement year, for the sake of their own wellbeing.
+6. Performance
+6.1 Approach
+Paytech manages performance through ongoing, continuous feedback and clearly defined goals, rather than relying on infrequent, high-stakes reviews that can catch employees off guard. Expectations are built by connecting an employee's individual role responsibilities to Paytech's broader company values and, for roles with regulatory significance, to the compliance and control obligations that come with the position.
+6.2 Review Cadence
+Performance conversations happen on a rhythm that combines frequent, informal check-ins with more formal, periodic evaluation points, as set out below.
+6.3 Standards & Development
+Employees are evaluated across three dimensions: the results they deliver, how well their behaviours align with Paytech's values, and their conduct with respect to compliance. Alongside evaluation, Paytech invests actively in employee development through coaching, training, and stretch opportunities intended to help people grow.
+6.4 Performance Improvement
+When an employee's performance falls short of what is expected, their manager works with them to build a documented Performance Improvement Plan, or PIP. A PIP sets out clear expectations, realistic timelines, the support the employee will receive, and regular check-ins to track progress. If performance does not improve despite this reasonable support, the matter may move into formal action under the Discipline Policy described in Section 7.
+7. Discipline
+7.1 Principles
+Discipline at Paytech is applied fairly, consistently, and in proportion to the conduct involved, following principles of procedural fairness and the requirements of applicable law. Wherever possible, the underlying goal is to correct behaviour rather than simply to punish it.
+7.2 Progressive Discipline
+In most cases, discipline follows a progressive path that gives an employee the opportunity to correct course before more serious consequences apply. Depending on the severity of the issue, however, this progression may be accelerated, or individual steps may be skipped entirely.
+7.3 Serious Misconduct (Potential Immediate Termination)
+Certain kinds of conduct are serious enough that they can justify termination for cause without working through the progressive steps above. These include fraud, theft, breaches of financial regulations or anti-money-laundering controls, serious misuse of data, harassment, violence, and falsification of records.
+7.4 Documentation & Consistency
+Every disciplinary action taken is documented, applied consistently across similar situations, and carried out in line with applicable law. Employees are given an opportunity to respond to concerns raised about their conduct wherever that is appropriate.
+8. Harassment
+8.1 Commitment
+Paytech is committed to maintaining a workplace that is free of harassment and discrimination, and maintains a formal workplace harassment program as required under occupational health and safety legislation — including Ontario's Occupational Health and Safety Act — and applicable human rights codes.
+8.2 What Is Prohibited
+Harassment can take many forms, and the following are all treated as prohibited conduct at Paytech:
+Sexual harassment, including unwelcome advances, comments, or conduct of a sexual nature.
+Bullying, intimidation, and other forms of psychological harassment.
+Discrimination or harassment based on protected grounds such as race, ancestry, ethnic origin, religion, sex, gender identity or expression, sexual orientation, age, disability, marital or family status, and other grounds protected under applicable human rights law.
+Any conduct that creates an intimidating, hostile, or offensive work environment.
+8.3 Reporting
+Employees can raise a harassment complaint confidentially with a manager, HR, or a designated harassment officer. Because there are multiple routes for reporting, no employee is ever required to report directly to the person they are complaining about, and employees can raise concerns without fear of reprisal.
+8.4 Investigation
+Every complaint is investigated promptly, impartially, and as confidentially as the circumstances allow. Both the person who complained and the person the complaint is about are treated fairly throughout the process, and the findings of the investigation lead to whatever corrective action is appropriate.
+8.5 No Retaliation
+Retaliating against someone for making a good-faith complaint, or for participating in an investigation, is strictly prohibited. Retaliation is itself treated as a violation and is subject to discipline in its own right.
+9. Violence
+9.1 Zero Tolerance
+Paytech maintains a zero-tolerance stance toward workplace violence in any form, and operates a workplace violence prevention program as required by law.
+9.2 Scope
+Workplace violence is defined broadly. It includes physical assault or attempted assault, threats — whether explicit or implied — intimidation, and any behaviour that would give an employee reasonable cause to fear for their safety. It also extends to domestic violence that spills over into the workplace, where Paytech will take reasonable protective steps to keep the affected employee safe.
+9.3 Reporting & Emergencies
+In a genuine emergency, or where there is imminent danger, employees should contact local emergency services at 911 immediately, and then notify Security or HR. For threats or incidents that are not immediate emergencies, employees should report to a manager, Security, or HR without delay.
+9.4 Prevention & Response
+Paytech conducts risk assessments, controls access to its facilities, and provides support resources as part of its prevention efforts. Where a violation is confirmed, it leads to serious disciplinary action — up to and including termination — and may also be referred to law enforcement.
+10. Conflict of Interest
+10.1 Why This Matters
+Because Paytech operates in the financial sector, employees need to avoid situations where their personal interests conflict — or even appear to conflict — with the interests of Paytech or its clients. Even the mere appearance of a conflict can damage trust and create regulatory risk, so the standard here is deliberately broader than actual, proven wrongdoing.
+10.2 Common Conflict Areas
+Conflicts of interest tend to arise in a recurring set of situations, illustrated below.
+10.3 Disclosure & Pre-Clearance
+Any actual or potential conflict must be disclosed promptly to a manager or to Compliance. Depending on the role, Paytech may also maintain a personal trading policy, restricted lists, and pre-clearance requirements that apply before certain transactions or activities can go ahead.
+10.4 Consequences
+Failing to disclose a conflict of interest can lead to discipline and, in some cases, regulatory consequences for both the employee and the Company. As a general rule, when an employee is unsure whether something needs to be disclosed, the right course of action is to disclose it.
+11. Privacy
+11.1 Our Obligation
+Paytech handles both employee and client personal information in accordance with PIPEDA and applicable provincial privacy laws, and does so with the elevated care expected of a financial services provider.
+11.2 Principles
+Paytech's approach to personal information is guided by a small number of consistent principles:
+Personal information is collected, used, and disclosed only for legitimate, disclosed purposes.
+Access to personal information is limited to a strict need-to-know basis.
+Data is protected using appropriate technical and organizational safeguards.
+Data is retained only as long as necessary, and disposed of securely once it is no longer needed.
+11.3 Employee Responsibilities
+Employees who access client or personal data as part of their role must follow the applicable data-handling, classification, and retention rules. They must never access records without a genuine business reason for doing so, and must never share their credentials or export data in a way that isn't sanctioned.
+11.4 Breach Response
+Any suspected privacy breach or security incident must be reported immediately to Security or the Privacy Office. From there, Paytech follows its legal breach-notification obligations, which include notifying affected individuals and regulators where the law requires it.
+11.5 Surviving Obligations
+An employee's confidentiality and privacy obligations do not end when their employment does — they continue to apply after the employment relationship ends.
+12. Recruitment
+12.1 Fair Hiring
+Hiring at Paytech is conducted fairly, transparently, and on the basis of merit, qualifications, and fit for the role — free from discrimination on any ground protected under applicable human rights legislation.
+12.2 Accommodation
+Reasonable accommodation is available throughout the recruitment process on request — for example, to support a candidate with a disability or a candidate whose religious observance needs to be accommodated during the process.
+12.3 Background & Regulatory Checks
+Given the regulated environment Paytech operates in, job offers may be made conditional on background checks appropriate to the specific role. All such checks are carried out with the candidate's consent and in accordance with applicable law.
+12.4 Referrals & Internal Mobility
+Paytech encourages both employee referrals and internal applications for open roles, under clearly defined guidelines that support employees' career growth while still maintaining fairness in the hiring process.
+13. Termination
+13.1 Ways Employment Ends
+Employment with Paytech can end in a number of different ways, summarized below.
+13.2 Statutory & Common-Law Obligations
+Paytech complies fully with all statutory notice, termination pay, and severance obligations required under applicable employment standards legislation, as well as any applicable common-law obligations that arise.
+13.3 Return of Property & Data
+When employment ends, employees must return all company property — including devices, access cards, and confidential materials — and confirm the deletion or return of any data as directed by the Company.
+13.4 Surviving Obligations
+Certain obligations continue even after employment ends, including ongoing confidentiality and privacy obligations, and any post-employment terms set out in the employment agreement, such as non-solicitation commitments.
+13.5 Final Pay & Records
+Final pay, any accrued vacation pay, and the Record of Employment (ROE) are all issued as legally required. Terminations for cause are reserved specifically for serious misconduct, and are documented accordingly.
+Appendix A — Policy Ownership & Contacts
+Each policy area described in this handbook has a designated primary owner within the organization, responsible for maintaining and updating that policy over time.
+Contacts: [HR email]  |  [Compliance email]  |  [Whistleblower channel]  |  [Security/Privacy email]  |  Emergencies: 911
+Appendix B — Definitions
+Statutory: required by applicable employment or other legislation.
+Protected Ground: a characteristic protected under human rights law.
+For Cause: termination justified by serious misconduct, without notice.
+PIPEDA: Personal Information Protection and Electronic Documents Act.
+AML/ATF: Anti-Money Laundering / Anti-Terrorist Financing.
+PIP: Performance Improvement Plan.
+ROE: Record of Employment.
+Appendix C — Acknowledgement of Receipt
+I acknowledge that I have received and read Volume 6 — Company Policies of the Paytech Employee Handbook. I understand that these policies apply to me, may be updated from time to time, and do not form a contract of employment. I agree to comply with them, and to seek clarification from HR or my manager where needed.
+Employee Name: ____________________________________________
+Signature: ____________________________________________
+Date: ____________________________________________
+End of Volume 6 — Company Policies
+Paytech Inc.  |  Effective July 2, 2026  |  Version 1.0
+Next: Standard Operating Procedures (SOPs) to follow.
+Situation | Typical Response
+Occasional lateness that is communicated in advance | Noted informally; generally no formal action is taken
+Repeated lateness | A coaching conversation between the employee and their manager
+A single unexplained absence | A follow-up conversation; supporting documentation may be requested
+A recurring pattern of no-notice absence | Progressive discipline, as described in Section 7
+Three consecutive no-call, no-show days | May be treated as voluntary job abandonment
+Leave Type | Paid / Unpaid | Notes
+Sick Leave | Per statute | Job-protected
+Family Responsibility Leave | Unpaid* | For illness or injury of a family member
+Bereavement Leave | Unpaid* | On the death of a family member
+Family Medical / Caregiver Leave | Unpaid | For serious illness of a family member
+Pregnancy Leave | Unpaid** | Job-protected
+Parental Leave | Unpaid** | Job-protected
+Jury Duty / Court Attendance | Unpaid | Time off is protected
+Domestic or Sexual Violence Leave | Partly paid | As required by statute
+Reservist Leave | Unpaid | For employees performing eligible military service
+Arrangement | Typical Applicability
+Fully Remote | Roles that have no physical or in-person requirement
+Hybrid | Most corporate roles, typically involving two to three days in the office
+On-Site | Roles that require secure facilities or specialized hardware
+Length of Service | Vacation Time | Vacation Pay (Minimum)
+Less than 5 years | 2 weeks (statutory) | 4% of wages
+5 years or more | 3 weeks (statutory) | 6% of wages
+Paytech enhancement | Per offer letter | Per offer letter
+Activity | Frequency / Purpose
+1:1 Check-ins | Ongoing, typically weekly or biweekly — feedback and support
+Goal Setting | At the start of each cycle — aligning on objectives
+Quarterly Reviews | Reviewing progress against goals and course-correcting where needed
+Annual Review | A formal evaluation linked to compensation and development planning
+Step | Action | Typical Trigger
+1 | Verbal Notice / Coaching | A minor, first-time issue
+2 | Written Warning | A repeated or more serious issue
+3 | Final Written Warning | Continued or significant misconduct
+4 | Termination | Failure to correct the behaviour, or serious misconduct
+Area | Example
+Personal Trading | Trading in restricted or related securities
+Outside Employment / Business | A side role that competes with, or otherwise affects, an employee's Paytech duties
+Gifts & Entertainment | Accepting gifts or entertainment beyond acceptable value limits
+Personal Relationships | Reporting lines that involve close family members or partners
+Vendor / Client Interests | Holding a financial interest in a counterparty
+Check Type | Typical Applicability
+Identity & Right to Work | All hires
+Reference Checks | Most hires
+Criminal Record Check | Roles that handle funds, data, or other sensitive access
+Credit Check | Select finance and treasury roles
+Regulatory / Sanctions Screen | Regulated and client-facing roles
+Type | Summary
+Resignation | The employee gives notice in accordance with their agreement and applicable law
+Termination with Notice | The Company ends employment; statutory and common-law notice or pay obligations apply
+Termination for Cause | For serious misconduct; the decision is documented
+Layoff / Redundancy | The role is eliminated; statutory obligations are met
+End of Fixed Term | The contract concludes on its agreed end date
+Policy Area | Primary Owner
+Attendance / Leave / Vacation / Performance | People & Culture (HR)
+Code of Conduct / Conflict of Interest | Compliance & Legal
+Remote Work / Privacy | IT Security & Privacy Office
+Harassment / Violence | Health & Safety, together with HR
+Recruitment / Termination | People & Culture (HR)

@@ -1,0 +1,198 @@
+PAYTECH INC.
+Standard Operating Procedure
+Employee Relations & Terminations
+Companion procedure to Volume 6 of the Employee Handbook (Sections 7, 8, 9, and 13)
+SOP Reference: ER-TERM-001
+Effective Date: July 20, 2026
+Version: 1.0
+Applies To: All People Managers, HR, Employee Relations, and Compliance & Legal personnel involved in employee relations matters or terminations
+Jurisdiction: Ontario / Canada, with provincial variation as noted
+Document Owner: People & Culture (HR) in partnership with Compliance & Legal
+Related Policy: Paytech Employee Handbook, Volume 6 — Company Policies
+Review Cycle: Annual, or upon material regulatory or legislative change
+Purpose of This Document
+This Standard Operating Procedure describes, in practical and sequential terms, how Paytech's Employee Relations function actually carries out the policies described in Volume 6 of the Employee Handbook — specifically the Discipline, Harassment, Violence, and Termination policies (Sections 7, 8, 9, and 13). Where the Handbook sets out what Paytech's commitments and standards are, this SOP is concerned with how those commitments get carried out day to day: who does what, in what order, with what documentation, and by when.
+This SOP is written for the people who administer these processes — managers, HR Business Partners, Employee Relations specialists, and Compliance & Legal — rather than for the general employee population. It assumes familiarity with the Handbook and should always be read alongside it. Nothing in this SOP is intended to create rights beyond those already described in the Handbook or in applicable law, and where the two documents appear to diverge, the Handbook and applicable law govern.
+Important: This document does not replace individual legal advice. Employee Relations should consult Compliance & Legal before taking any step described here in a matter involving suspected fraud, regulatory reporting obligations, a unionized employee, a human rights complaint, or any termination for cause.
+Table of Contents
+1. Scope & Roles
+2. Employee Relations Case Intake
+3. Investigation Procedure
+4. Progressive Discipline Procedure
+5. Harassment & Violence Case Handling
+6. Performance Improvement Plans (PIP) Procedure
+7. Termination Procedure — General
+8. Termination Procedure — By Type
+9. Termination for Cause — Enhanced Procedure
+10. Documentation, Records & Confidentiality
+11. Post-Termination Obligations
+Appendix A — Employee Relations Case Checklist
+Appendix B — Termination Checklist
+Appendix C — Escalation & Contact Matrix
+Appendix D — Definitions
+1. Scope & Roles
+1.1 Scope
+This SOP applies to all employee relations matters that touch conduct, performance, safety, or the end of the employment relationship. It applies across every province in which Paytech has employees, with the understanding that specific timelines and entitlements will vary based on the employment standards legislation of the province in question. Where a matter involves a unionized employee, applicable collective agreement provisions take precedence over the steps described here, and Employee Relations should engage Compliance & Legal before proceeding.
+1.2 Roles & Responsibilities
+Employee relations matters typically involve several functions working together. The table below sets out who is generally responsible for what, though the specific facts of a case may bring in additional stakeholders.
+2. Employee Relations Case Intake
+Every employee relations matter begins with an intake step, regardless of how it first surfaces — whether through a manager escalation, a direct employee report, a whistleblower channel submission, or an observation by HR itself. Handling intake consistently is what allows Paytech to track cases, apply the right process, and meet any regulatory or legal deadlines that may attach.
+2.1 Receiving a Report or Concern
+1. Whoever first receives the concern — typically a manager or HR — records the basic facts: who is involved, what is alleged, when and where it occurred, and whether there is any immediate safety concern.
+2. If there is any immediate safety concern, or an emergency, the reporting employee is directed to contact 911 first, then Security/HR, consistent with Section 9 of the Handbook. Intake documentation follows once safety is addressed.
+3. The matter is logged in the HR case management system within one business day of being received, and assigned a case owner within Employee Relations.
+4. The case owner triages the matter into one of the categories described in Section 2.2 below, which determines which subsequent procedure in this SOP applies.
+2.2 Triage Categories
+2.3 Acknowledgement
+Where the matter was raised by an employee — whether the complainant or a witness — Employee Relations acknowledges receipt of the concern within two business days, confirms the general process that will follow, and reiterates the no-retaliation protections described in Sections 3.4, 8.5, and 9 of the Handbook. Specific findings or outcomes are not shared at this stage.
+3. Investigation Procedure
+Not every employee relations matter requires a formal investigation — a straightforward attendance issue, for example, may move directly into the discipline procedure. An investigation is appropriate whenever the underlying facts are disputed, the allegation is serious (harassment, violence, fraud, or other potential serious misconduct), or the outcome could lead to termination for cause.
+3.1 Assigning an Investigator
+Employee Relations assigns an investigator who has no direct reporting relationship with, or personal connection to, either party. Depending on the nature of the allegation, the investigator may be an HR/ER specialist, a Compliance & Legal representative, a Health & Safety representative, or an external investigator engaged for matters of particular sensitivity or seniority.
+3.2 Conducting the Investigation
+1. The investigator prepares an investigation plan identifying the allegations to be tested, the witnesses to be interviewed, and any documentary or system evidence to be reviewed.
+2. The respondent (the employee the concern is about) is informed that an investigation is underway and given a general description of the allegations sufficient to allow them to respond, consistent with principles of procedural fairness described in Section 7.1 and 8.4 of the Handbook.
+3. Interviews are conducted separately with the complainant, the respondent, and any relevant witnesses. Interview notes are taken contemporaneously and retained as part of the case file.
+4. Relevant records — system access logs, transaction records, correspondence, badge or access records — are reviewed as needed, always on a need-to-know basis and in line with the Privacy principles in Section 11 of the Handbook.
+5. The investigator prepares written findings, setting out what was alleged, what evidence was gathered, and a conclusion as to whether the allegation is substantiated, unsubstantiated, or inconclusive.
+3.3 Timeframes
+Investigations are completed as promptly as the circumstances allow. As a general guideline, straightforward matters are targeted for completion within 15 business days of assignment, and more complex matters within 30 business days. Where a matter cannot be completed within these guidelines, Employee Relations documents the reason for the delay and provides a status update to both parties.
+3.4 Confidentiality During Investigation
+Information gathered during an investigation is shared only with those who need it to make a decision — typically the investigator, Employee Relations, Compliance & Legal where relevant, and the decision-maker. Parties and witnesses are asked to keep the matter confidential to the extent reasonably possible, while being reminded that discussing their own experience is not restricted.
+4. Progressive Discipline Procedure
+This section describes how the progressive discipline framework in Section 7.2 of the Handbook is actually administered.
+4.1 Step 1 — Verbal Notice / Coaching
+The manager holds a private conversation with the employee describing the concern and the expected standard going forward. The manager records a brief summary of the conversation in the HR system for reference, even though this step is informal in nature.
+4.2 Step 2 — Written Warning
+HR partners with the manager to prepare a written warning that describes the specific conduct or performance concern, references any prior informal conversation, sets out the expected standard, and states the consequence of continued issues. The employee is given the opportunity to respond, and the signed or acknowledged warning is placed in the employee's file.
+4.3 Step 3 — Final Written Warning
+A final written warning follows the same preparation process as a written warning, but explicitly states that termination may result if the conduct or performance issue continues or recurs. Given the seriousness of this step, HR reviews the documentation before it is delivered, and Employee Relations is looped in to track the case.
+4.4 Step 4 — Termination
+Where discipline reaches this step, the process moves into Section 7 and 8 of this SOP (Termination Procedure).
+4.5 Accelerating or Skipping Steps
+Consistent with Section 7.2 and 7.3 of the Handbook, the progression above may be accelerated or skipped where the severity of the conduct warrants it. Any decision to skip a step is documented with the reasoning, and reviewed by HR and, where the conduct could amount to cause, by Compliance & Legal before being finalized.
+5. Harassment & Violence Case Handling
+Harassment and violence matters follow the general investigation procedure in Section 3, with the additional safeguards described below, reflecting the heightened sensitivity of these matters and Paytech's obligations under occupational health and safety legislation.
+5.1 Immediate Safety Steps
+Where a report involves violence, a threat, or an immediate safety concern, the immediate priority is safety rather than process. This may include directing the reporting employee to emergency services, temporarily separating the parties (for example, through a schedule change, a change in reporting line, or paid leave pending investigation), and restricting facility access where appropriate. These interim steps are not disciplinary findings and do not imply that any allegation has been substantiated.
+5.2 Multiple Reporting Routes
+Consistent with Section 8.3 of the Handbook, a harassment concern may be raised with a manager, HR, or a designated harassment officer. Whoever receives the report ensures the employee is not required to raise the matter with the person the complaint concerns, and routes the matter to Employee Relations for case assignment.
+5.3 Investigation & Outcome
+Harassment and violence investigations are led jointly by HR/Employee Relations and Health & Safety, following the process in Section 3. Findings and any resulting corrective action are communicated to the complainant and respondent to the extent appropriate, respecting the confidentiality of both parties.
+5.4 No-Retaliation Monitoring
+Employee Relations checks in with the complainant at intervals following the resolution of a harassment or violence case — typically at 30 and 90 days — to confirm that no retaliation has occurred, consistent with Sections 8.5 and 9 of the Handbook.
+6. Performance Improvement Plans (PIP) Procedure
+This section describes how the PIP process referenced in Section 6.4 of the Handbook is put into practice.
+1. The manager, with HR support, drafts a PIP that identifies the specific performance gaps, the measurable standard the employee needs to meet, the support that will be provided (such as coaching, training, or adjusted workload), and a defined timeline — typically 30, 60, or 90 days depending on the role and the nature of the gap.
+2. HR reviews the PIP for clarity, fairness, and consistency with how similar situations have been handled before it is issued.
+3. The manager delivers the PIP to the employee in a private conversation, explains the content, and answers questions. The employee is given the opportunity to provide comments.
+4. The manager and employee hold regular check-ins across the PIP period — typically weekly or biweekly — and the manager documents progress at each one.
+5. At the end of the PIP period, the manager and HR assess whether the employee has met the defined standard. Three outcomes are possible: the PIP is closed successfully, the PIP is extended where meaningful progress is being made but more time is needed, or the matter proceeds to the Termination Procedure in Section 7 where the standard has not been met.
+7. Termination Procedure — General
+Whatever the reason for a termination, a consistent set of steps applies to make sure the process is fair, well-documented, and compliant with statutory and common-law obligations, as described generally in Section 13 of the Handbook.
+7.1 Decision & Review
+1. The manager, in partnership with HR, prepares a termination recommendation describing the reason for the termination and the type that applies (see Section 8 below).
+2. HR reviews the recommendation for consistency with how similar situations have been handled, and for compliance with applicable employment standards.
+3. Compliance & Legal reviews any termination that is for cause, that involves a regulated role, or that could carry regulatory reporting implications, before the decision is finalized.
+4. Payroll is engaged to calculate final pay, accrued vacation payout, and any statutory or contractual notice or severance pay owed.
+7.2 Planning the Separation Meeting
+HR and the manager plan the logistics of the separation conversation together: who will deliver the message, when and where it will take place, what documents will be provided (termination letter, final pay details, benefits continuation information, and, where applicable, a release), and what immediate steps are needed for system access and equipment return.
+7.3 The Separation Meeting
+The meeting is conducted respectfully and privately, typically by the manager with an HR representative present. The employee is told the decision clearly and is provided with the termination letter and related documents. Questions about final pay, benefits, and next steps are answered or the employee is directed to the appropriate contact for follow-up.
+7.4 Same-Day Administrative Steps
+IT Security disables system and building access according to the timing agreed with HR — generally at, or immediately following, the separation meeting for terminations for cause, and on an agreed timeline for other terminations.
+Company property (devices, access cards, and other equipment) is collected or arrangements are made for its return, consistent with Section 13.3 of the Handbook.
+Payroll is notified to process final pay and to issue the Record of Employment within the legally required timeframe.
+HR updates the case file and closes out the termination record.
+8. Termination Procedure — By Type
+The general procedure in Section 7 applies to every termination, but the specific steps and emphasis differ depending on which of the five types described in Section 13.1 of the Handbook applies.
+8.1 Resignation
+When an employee resigns, the manager notifies HR promptly and confirms the employee's last day in writing. HR confirms whether the resignation notice given meets the employee's contractual notice obligation and coordinates a standard offboarding, following the general procedure in Section 7. Exit interviews are offered, though participation is voluntary.
+8.2 Termination with Notice (Without Cause)
+Where Paytech ends the employment relationship without cause, HR calculates the statutory and, where applicable, common-law notice or pay in lieu owed to the employee, in consultation with Compliance & Legal for any role with unique contractual terms. The termination letter sets out the effective date, the notice or pay in lieu provided, and any applicable severance, benefits continuation, or outplacement support.
+8.3 Termination for Cause
+Termination for cause follows the enhanced procedure described in Section 9 of this SOP, given the heightened legal risk and the fact that, by definition, statutory notice obligations may not apply in the same way.
+8.4 Layoff / Redundancy
+Where a role is being eliminated, HR works with the business to confirm the rationale is genuinely tied to the role rather than the individual, calculates statutory notice, pay in lieu, and any severance owed, and, where multiple roles are affected at once, confirms whether mass-notification obligations under applicable employment standards legislation apply. Layoffs are communicated with particular care given the impact on remaining team members as well as those leaving.
+8.5 End of Fixed Term
+Where a fixed-term contract is simply concluding on its agreed end date, HR confirms the end date in writing in advance, following the general procedure in Section 7, without treating the conclusion of the contract as a disciplinary matter.
+9. Termination for Cause — Enhanced Procedure
+Because a for-cause termination alleges serious misconduct and can affect an employee's statutory entitlements, it carries additional safeguards beyond the general procedure in Section 7.
+1. The underlying conduct is investigated using the Investigation Procedure in Section 3, unless the conduct was witnessed directly and is not in dispute.
+2. Compliance & Legal reviews the investigation findings and confirms whether the conduct meets the legal threshold for cause in the relevant province, given that this is a high bar that requires more than a single, isolated performance issue.
+3. Where the conduct may also carry regulatory implications — for example, a suspected AML/ATF control breach, fraud, or a securities-related issue — Compliance & Legal determines whether any regulatory notification obligation applies, separate from the employment decision itself.
+4. HR prepares a termination letter that documents the specific misconduct relied upon, consistent with Section 7.4 of the Handbook's documentation and consistency requirement.
+5. Where facility or system access presents an ongoing risk, IT Security and Facilities coordinate to disable access at, or immediately before, the separation meeting.
+6. The completed case file — investigation findings, legal review, and termination letter — is retained by HR in line with Section 10 of this SOP.
+10. Documentation, Records & Confidentiality
+10.1 What Gets Documented
+Every step described in this SOP — intake, investigation findings, discipline notices, PIP records, and termination decisions — is documented in the HR case management system. Documentation should be factual, specific, and free of speculation about matters outside the scope of the case.
+10.2 Access to Case Files
+Employee relations case files are accessible only to those directly involved in managing the case, consistent with the need-to-know principle in Section 11.2 of the Handbook. Access is logged, and case files are not shared with an employee's manager beyond what that manager needs to carry out an agreed action.
+10.3 Retention
+Employee relations and termination records are retained in accordance with Paytech's records retention schedule and applicable employment standards and limitation-period requirements, after which they are disposed of securely.
+11. Post-Termination Obligations
+11.1 Ongoing Confidentiality
+As described in Section 13.4 of the Handbook, confidentiality, privacy, and any applicable post-employment obligations such as non-solicitation continue to apply after the employment relationship ends. HR reminds departing employees of these obligations as part of the separation meeting.
+11.2 Reference Requests
+Reference requests concerning a former employee are directed to HR, which follows Paytech's standard practice for confirming dates of employment and role, consistent with maintaining fairness and confidentiality for all parties.
+11.3 Rehire Eligibility
+HR records whether a former employee is eligible for rehire based on the circumstances of their departure, for reference in any future application.
+Appendix A — Employee Relations Case Checklist
+Concern logged in HR case management system within 1 business day
+Case owner assigned and triage category confirmed
+Immediate safety steps taken, if applicable
+Acknowledgement sent to reporting employee within 2 business days
+Investigator assigned (if investigation required) with no conflict of interest
+Respondent notified of investigation and given opportunity to respond
+Interviews conducted and documented
+Written findings prepared and reviewed
+Outcome communicated to relevant parties
+No-retaliation check-in scheduled, where applicable
+Case file completed and closed in system
+Appendix B — Termination Checklist
+Termination type confirmed (resignation, with notice, for cause, layoff, end of fixed term)
+HR review completed for consistency and compliance
+Compliance & Legal review completed, where required
+Final pay, vacation payout, and notice/severance calculated by Payroll
+Separation meeting planned: who, when, where, what documents
+Termination letter and related documents prepared
+Separation meeting conducted
+System and building access addressed per agreed timing
+Company property collection or return arranged
+Record of Employment issued within legally required timeframe
+Post-termination obligations reviewed with departing employee
+Case file completed and retained per records schedule
+Appendix C — Escalation & Contact Matrix
+Appendix D — Definitions
+Employee Relations (ER): the HR function responsible for case management of discipline, harassment, violence, and termination matters.
+Case Owner: the individual within Employee Relations accountable for managing a specific case from intake to close.
+Respondent: the employee whose conduct is the subject of a complaint or investigation.
+Complainant: the employee who raised the concern giving rise to a case.
+For Cause: termination justified by serious misconduct, without notice, as defined in Appendix B of the Handbook.
+PIP: Performance Improvement Plan, as described in Section 6 of the Handbook.
+ROE: Record of Employment.
+End of SOP ER-TERM-001 — Employee Relations & Terminations
+Paytech Inc.  |  Effective July 20, 2026  |  Version 1.0
+Role | Typical Responsibility
+People Manager | First point of contact for day-to-day conduct and performance issues; raises concerns, participates in coaching and documented conversations, and implements decisions once made
+HR Business Partner | Advises the manager, ensures process is followed consistently, and helps prepare documentation
+Employee Relations (ER) | Owns formal case management for discipline, harassment, violence, and termination matters; coordinates investigations
+Compliance & Legal | Advises on regulatory, AML, and legal risk; required reviewer for terminations for cause and any matter with potential regulatory reporting implications
+Health & Safety | Co-leads harassment and violence investigations alongside HR/ER
+IT Security & Privacy Office | Manages system access, device return, and data-handling steps tied to a termination
+Payroll | Processes final pay, vacation payout, and the Record of Employment (ROE)
+Category | Applicable Procedure
+Attendance or minor performance concern | Section 4 — Progressive Discipline Procedure
+Sustained underperformance against role expectations | Section 6 — Performance Improvement Plan Procedure
+Suspected harassment or discrimination | Section 5 — Harassment & Violence Case Handling
+Threat, intimidation, or violence | Section 5 — Harassment & Violence Case Handling (expedited)
+Suspected fraud, theft, or regulatory breach | Section 3 — Investigation Procedure, with mandatory Compliance & Legal involvement
+Resignation, layoff, or end of fixed term | Section 7 and 8 — Termination Procedure
+Situation | Escalate To
+Immediate safety threat or emergency | 911, then Security/HR
+Suspected fraud, theft, or AML/ATF issue | Compliance & Legal
+Harassment or discrimination complaint | HR / designated harassment officer / Health & Safety
+Any termination for cause | HR and Compliance & Legal (mandatory joint review)
+Suspected privacy or security breach | IT Security & Privacy Office
+Matter involving a unionized employee | HR and Compliance & Legal (collective agreement review)
